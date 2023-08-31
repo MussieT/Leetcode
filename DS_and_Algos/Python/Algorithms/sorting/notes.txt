@@ -1,0 +1,1 @@
+# For small length of array merge sort is slower .. exmaple it is less than insertion sort.
