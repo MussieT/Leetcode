@@ -1,0 +1,5 @@
+Look always which way to go. -> Always consider it when O(logn)
+    It might be ->
+        first and last indexes of an array,
+        immediate next,
+        and others ..
