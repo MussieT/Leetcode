@@ -15,4 +15,4 @@ def bubble_sort(arr):
 arr = [64, 34, 25, 12, 22, 11, 90]
 bubble_sort(arr)
 
-# Time complexity (n2)
+# Time complexity (n^2)
